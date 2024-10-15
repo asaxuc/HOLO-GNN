@@ -1,2 +1,2 @@
-# ImbGNN
-code for www2025
+# HOLO-GNN
+to be published

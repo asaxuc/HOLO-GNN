@@ -1,2 +1,5 @@
 # HOLO-GNN
-to be published
+run with:
+``
+python main.py
+``
